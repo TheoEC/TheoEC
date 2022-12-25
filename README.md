@@ -8,9 +8,9 @@
 - Blockchain enthusiast.
 - Delphi developer in Financial Software.
 
-![Theo GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoEC&show_icons=true&theme=codeSTACKr)
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoEC&show_icons=true&bg_color=00000000&title_color=ff0000&icon_color=ff0000&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoEC&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoEC&layout=compact&&bg_color=00000000&title_color=ff0000&icon_color=ff0000&hide_border=true)
 
 ## Technologies
 
@@ -22,3 +22,4 @@
 
 ### Agile
 [![Blog](https://img.shields.io/badge/Scrum-Fundamentals-red)](https://www.scrumstudy.com/certification/verify?type=SFC&number=866149)
+
