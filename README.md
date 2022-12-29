@@ -8,7 +8,7 @@
 - Blockchain enthusiast.
 - Delphi developer in Financial Software.
 
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoEC&show_icons=true&bg_color=00000000&title_color=ff0000&icon_color=ff0000&hide_border=true&text_color=7e7bb9)
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoEC&show_icons=true&bg_color=00000000&title_color=ff0000&icon_color=ff0000&hide_border=true&text_color=7e7bb9&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoEC&layout=compact&&bg_color=00000000&title_color=ff0000&icon_color=ff0000&hide_border=true&text_color=7e7bb9)
 
