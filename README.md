@@ -23,4 +23,4 @@
 
 ### Agile
 [![Blog](https://img.shields.io/badge/Scrum-Fundamentals-red)](https://www.scrumstudy.com/certification/verify?type=SFC&number=866149)
-
+[![Blog](https://img.shields.io/badge/Scrum-Developer-Certified-red)](https://www.scrumstudy.com/certification/verify?type=SDC&number=825423)
