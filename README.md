@@ -18,7 +18,7 @@
 [![Blog](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/TheoEC?tab=repositories&language=swift)
 [![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/TheoEC?tab=repositories&language=python)
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/TheoEC?tab=repositories&language=java)
-[![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/TheoEC?tab=repositories&language=c)
+(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Blog](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)]()
 
 ### Agile
